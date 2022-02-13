@@ -63,4 +63,5 @@ let weather = {
 
   weather.fetchWeather("Detroit");
 
-  
+  // for some reason, I couldn't get the weath to pull F, instead it would stick to C and the 5 day forcast was really tought to do
+  // I kept learning and figuring out new ways to structure the code
